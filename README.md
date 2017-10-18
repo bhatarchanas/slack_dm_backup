@@ -11,9 +11,7 @@ This bot lets you download json files with direct message chats between you and 
 2. slack-history-export should be installed. Refer https://github.com/hisabimbola/slack-history-export for installation details.
 
 ### Options:
-Usage: 
-
-ruby slack_dm_backup.rb [-h] [-t TOKEN] [-o OUTPUT_FOLDER]
+Usage: ruby slack_dm_backup.rb [-h] [-t TOKEN] [-o OUTPUT_FOLDER]
 
 NOTE: To get a slack token, visit https://api.slack.com/custom-integrations/legacy-tokens
 
