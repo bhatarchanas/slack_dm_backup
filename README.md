@@ -12,11 +12,13 @@ This bot lets you download json files with direct message chats between you and 
 
 ### Options:
 Usage: 
+
 ruby slack_dm_backup.rb [-h] [-t TOKEN] [-o OUTPUT_FOLDER]
 
 NOTE: To get a slack token, visit https://api.slack.com/custom-integrations/legacy-tokens
 
 Arguments:
+
 --help, -h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Show help text.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[boolean]  
 
 --token, -t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Token from slack.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[string] 
