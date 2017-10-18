@@ -23,7 +23,7 @@ Arguments:
 
 --outfolder, -o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output folder to store all the json files.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[string] 
 
-### Thanks:
+### References:
 @hisabimbola [slack-history-export] (https://github.com/hisabimbola/slack-history-export)
 @dharmastyle [slack2html.php] (https://gist.github.com/dharmastyle/5d1e8239c5684938db0b)
 @humor4fun [slack-backup] (https://github.com/humor4fun/slack-backup)
