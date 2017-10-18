@@ -8,7 +8,7 @@ This bot lets you download json files with direct message chats between you and 
 1. Ruby v2.2.1 or greater
    To install dependencies run the command   
    `$ bundle`
-2. slack-history-export should be installed from https://github.com/hisabimbola/slack-history-export 
+2. slack-history-export should be installed. Refer https://github.com/hisabimbola/slack-history-export for installation details.
 
 ### Options:
 Usage: 
