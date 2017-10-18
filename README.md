@@ -1,5 +1,5 @@
 # Slack backup
-### Get a backup of direct messages for all users in your team!
+### Get a backup of direct messages between you and all the users in your team!
 
 ### Introduction:
 This bot lets you download json files with direct message chats between you and another user on your team. Chats between you and every other user on your team will be downloaded in json format and will be stored in the output folder that you provide while running the command. 
